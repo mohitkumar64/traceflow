@@ -1,0 +1,26 @@
+{
+  "name": "traceflow",
+  "version": "0.1.0",
+  "description": "Lightweight async tracing for Node.js applications",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "nodejs",
+    "tracing",
+    "observability",
+    "async",
+    "express",
+    "monitoring"
+  ],
+  "license": "MIT"
+}
+
