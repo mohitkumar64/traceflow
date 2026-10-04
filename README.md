@@ -44,7 +44,7 @@ Trace an Express application with minimal instrumentation:
 
 ```js
 import express from "express";
-import { traceflow, traced } from "traceflow";
+import { traceflow, traced } from "@bisect/traceflow";
 
 const app = express();
 

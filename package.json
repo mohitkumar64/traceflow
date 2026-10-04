@@ -1,5 +1,5 @@
 {
-  "name": "traceflow",
+  "name": "@bisect/traceflow",
   "version": "0.1.0",
   "description": "Lightweight async tracing for Node.js applications",
   "type": "module",
