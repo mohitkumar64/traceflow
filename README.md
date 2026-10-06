@@ -89,7 +89,7 @@ That's it. `traceflow` is an Express middleware. `traced()` wraps any async oper
 
 ## Project Status
 
-Traceflow is in early development (`v0.1.0`). The API is experimental and may change.
+Traceflow is in early development (`v0.2.0`). The API is experimental and may change.
 
 ---
 

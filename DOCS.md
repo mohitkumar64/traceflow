@@ -262,7 +262,7 @@ traceflow/
 
 ## Roadmap
 
-### Current (V0.1)
+### Current (V0.2)
 
 - ✅ Express middleware
 - ✅ Request-level trace context via `AsyncLocalStorage`
